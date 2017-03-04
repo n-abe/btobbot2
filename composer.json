@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-mbstring": "*",
+        "linecorp/line-bot-sdk": "^1.1"
+    }
+}
